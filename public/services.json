@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Full Pakage 12 Month",
+        "price": "5000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/XpQ9ZVB/s1.png"
+    },
+    {
+        "id": 2,
+        "name": "Half Pakage",
+        "price": "27000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/wwn5YWV/s2.png"
+    },
+    {
+        "id": 3,
+        "name": "Month Pakage",
+        "price": "1500",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/gR5CNKM/s3.png"
+    },
+    {
+        "id": 4,
+        "name": "!5Days Package",
+        "price": "880",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/M56ZfQF/s4.png"
+    },
+    {
+        "id": 5,
+        "name": "Weekly Package",
+        "price": "700",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/xGbdQHC/s5.png"
+    },
+    {
+        "id": 6,
+        "name": "Daily Package",
+        "price": "50",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/6gmHVw4/s6.png"
+    }
+]

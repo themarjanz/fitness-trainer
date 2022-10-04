@@ -6,12 +6,12 @@ import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyByUuZTySKIwtpNihyA0_NiFVMvOlDNT4I",
-    authDomain: "fitness-trainer-54657.firebaseapp.com",
-    projectId: "fitness-trainer-54657",
-    storageBucket: "fitness-trainer-54657.appspot.com",
-    messagingSenderId: "393948794008",
-    appId: "1:393948794008:web:ef2f75bac768a0e2c854ed"
+    apiKey: "AIzaSyC0W6LTmlOlRrNcNVzos3VTdhFe9GXp5V4",
+    authDomain: "fitness-trainer-ecd0a.firebaseapp.com",
+    projectId: "fitness-trainer-ecd0a",
+    storageBucket: "fitness-trainer-ecd0a.appspot.com",
+    messagingSenderId: "209982803525",
+    appId: "1:209982803525:web:a7f45ea5933b366ea79d2c"
 };
 
 // Initialize Firebase
@@ -19,3 +19,4 @@ const app = initializeApp(firebaseConfig);
 
 const auth = getAuth(app);
 export default auth;
+
